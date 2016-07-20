@@ -124,9 +124,6 @@ do
 done
 echo "</table>"
 
-echo "</body>"
-echo "</html>"
-
 contests=(
     "wikilovesearth.org"
     "wikilovesmonuments.org"
