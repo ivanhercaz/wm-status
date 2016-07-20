@@ -1,0 +1,44 @@
+body{
+    color:#111;
+    padding:2em;
+    font-family:sans;
+}
+h2 {
+    margin-bottom:.5em;
+    margin-top:2em;
+}
+table,td,th{
+    padding:1em;
+}
+a {
+    text-decoration:none;
+}
+a:link {
+    color:#007;
+}
+a:visited{
+    color:#639;
+}
+a:hover, a:active{
+    color:#66b;
+}
+.column_http,.column_https{
+    width:50%;
+}
+.status{
+    font-size:80%;
+}
+.status_scrolling{
+    overflow:auto;
+    overflow-y:scroll;
+    overflow-x:auto;
+    height:70px;
+    white-space:normal;
+    word-break:break-all;
+}
+.status_ok{
+    background:#CCFFCC;
+}
+.status_error{
+    background:#FFBBBB;
+}
