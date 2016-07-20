@@ -74,7 +74,7 @@ echo "<link rel=\"stylesheet\" type=\"text/css\" href=\"./status.css\">"
 echo "</head>"
 echo "<body>"
 echo "<h1>Availability&nbsp;status of Wikimedia&nbsp;webpages not&nbsp;hosted by&nbsp;the&nbsp;WMF</h1>"
-echo 'To check out the status of the sites hosted by the Wikimedia&nbsp;Foundation,&nbsp;Inc., such&nbsp;as Wikipedia and its sister&nbsp;projects, see <a href="https://status.wikimedia.org/" target="_blank">status.wikimedia.org</a>.'
+echo 'To check out the current performance and availability status of the websites hosted by the Wikimedia&nbsp;Foundation,&nbsp;Inc., including Wikipedia and its sister&nbsp;projects, see <a href="https://status.wikimedia.org/" target="_blank">status.wikimedia.org</a>.'
 
 chapters=(
     "wikimedia.at"
