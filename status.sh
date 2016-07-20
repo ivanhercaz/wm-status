@@ -115,6 +115,16 @@ do
 done
 print_table_end
 
+thematic_orgs=(
+    "wikimedia.cat"
+)
+print_table_start "Wikimedia thematic organizations"
+for item in ${thematic_orgs[*]}
+do
+    print_item "$item"
+done
+echo "</table>"
+
 user_groups=(
     "wikimedia.gr"
 )
