@@ -127,6 +127,7 @@ echo "</table>"
 
 user_groups=(
     "wikimedia.gr"
+    "blog.wikimedia.gr"
 )
 print_table_start "Wikimedia user groups"
 for item in ${user_groups[*]}
