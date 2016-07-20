@@ -73,7 +73,7 @@ echo "<title>Wikimedia availability</title>"
 echo "<link rel=\"stylesheet\" type=\"text/css\" href=\"./status.css\">"
 echo "</head>"
 echo "<body>"
-echo "<h1>Availability of Wikimedia webpages not hosted by the WMF</h1>"
+echo "<h1>Availability&nbsp;of Wikimedia&nbsp;webpages not&nbsp;hosted by&nbsp;the&nbsp;WMF</h1>"
 
 chapters=(
     "wikimedia.at"
