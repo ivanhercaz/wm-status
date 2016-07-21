@@ -2,6 +2,7 @@ body{
     color:#111;
     padding:2em;
     font-family:sans;
+    line-height:1.5;
 }
 h2 {
     margin-bottom:.5em;
@@ -41,4 +42,11 @@ a:hover, a:active{
 }
 .status_error{
     background:#FFBBBB;
+}
+.related_links{
+    position:absolute;
+    right:0;
+    top:0;
+    padding:1em;
+    font-size:80%;
 }
