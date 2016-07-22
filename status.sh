@@ -25,9 +25,11 @@ declare -A emails=(
     #  warning concerning your webpage.
     #  Add '' strings to prevent spam: 'use''r@gm''ail.com'
     #
-    ['wikilov.es']='davi''dabian@wik''imedia.es'
-    ['wikimedia.es']='davi''dabian@wik''imedia.es'
-    ['blog.wikimedia.es']='davi''dabian@wik''imedia.es'
+    ['wikilov.es']='platon''ides@gma''il.com'
+    ['www.wikilov.es']='platon''ides@gma''il.com'
+    ['wikimedia.es']='platon''ides@gma''il.com'
+    ['blog.wikimedia.es']='platon''ides@gma''il.com'
+    ['www.wikimedia.es']='platon''ides@gma''il.com'
 )
 chapters=(
     #
