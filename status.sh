@@ -34,41 +34,71 @@ chapters=(
     #  Include here your Wikimedia webpage(s).
     #
     'wikimedia.at'
+    'www.wikimedia.at'
     'wikimedia.be'
+    'www.wikimedia.be'
     'wikimedia.ca'
+    'www.wikimedia.ca'
     'wikimedia.ch'
+    'www.wikimedia.ch'
     'wikimedia.cz'
+    'www.wikimedia.cz'
     'wikimedia.de'
+    'www.wikimedia.de'
     'wikimedia.es'
     'blog.wikimedia.es'
+    'www.wikimedia.es'
     'wikimedia.fr'
+    'www.wikimedia.fr'
     'wikimedia.hk'
+    'www.wikimedia.hk'
     'wikimedia.hu'
+    'www.wikimedia.hu'
     'wikimedia.in'
+    'www.wikimedia.in'
     'wikimedia.it'
+    'www.wikimedia.it'
     'wikimedia.mx'
+    'www.wikimedia.mx'
     'wikimedia.nl'
+    'www.wikimedia.nl'
     'wikimedia.or.id'
+    'www.wikimedia.or.id'
     'wikimedia.org.am'
+    'www.wikimedia.org.am'
     'wikimedia.org.ar'
+    'www.wikimedia.org.ar'
     'wikimedia.org.au'
+    'www.wikimedia.org.au'
     'wikimedia.org.bd'
+    'www.wikimedia.org.bd'
     'wikimedia.org.fi'
+    'www.wikimedia.org.fi'
     'wikimedia.org.il'
+    'www.wikimedia.org.il'
     'wikimedia.org.ph'
+    'www.wikimedia.org.ph'
     'wikimedia.org.uk'
+    'www.wikimedia.org.uk'
     'wikimedia.org.ve'
+    'www.wikimedia.org.ve'
     'wikimedia.org.za'
+    'www.wikimedia.org.za'
     'wikimedia.pt'
+    'www.wikimedia.pt'
     'wikimedia.se'
+    'www.wikimedia.se'
     'wikimediachile.cl'
+    'www.wikimediachile.cl'
     'wikimediadc.org'
+    'www.wikimediadc.org'
 )
 thematic_orgs=(
     #
     #  Include here your Wikimedia webpage(s).
     #
     'wikimedia.cat'
+    'www.wikimedia.cat'
 )
 user_groups=(
     #
@@ -76,14 +106,18 @@ user_groups=(
     #
     'wikimedia.gr'
     'blog.wikimedia.gr'
+    'www.wikimedia.gr'
 )
 contests=(
     #
     #  Include here your Wikimedia webpage(s).
     #
     'wikilovesearth.org'
+    'www.wikilovesearth.org'
     'wikilovesmonuments.org'
+    'www.wikilovesmonuments.org'
     'wikilov.es'
+    'www.wikilov.es'
 )
 
 
