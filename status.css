@@ -4,17 +4,17 @@ body{
     font-family:sans;
     line-height:1.5;
 }
-h2 {
+h2{
     margin-bottom:.5em;
     margin-top:2em;
 }
 table,td,th{
     padding:1em;
 }
-a {
+a{
     text-decoration:none;
 }
-a:link {
+a:link{
     color:#007;
 }
 a:visited{
@@ -27,13 +27,13 @@ a:hover, a:active{
     width:50%;
 }
 .status{
-    font-size:80%;
+    font-size:75%;
 }
 .status_scrolling{
     overflow:auto;
     overflow-y:scroll;
     overflow-x:auto;
-    height:70px;
+    height:48px;
     white-space:normal;
     word-break:break-all;
 }
