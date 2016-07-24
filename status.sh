@@ -117,6 +117,13 @@ contests=(
     'wikilov.es'
     'www.wikilov.es'
 )
+more=(
+    #
+    #  Include here your Wikimedia webpage(s).
+    #
+    'wikiconference.org'
+    'www.wikiconference.org'
+)
 
 
 ##############################################################################
@@ -239,6 +246,12 @@ print_table_end
 
 print_table_start 'Wikimedia contests'
 for item in ${contests[*]}
+do process_item "$item" "${emails[$item]}"
+done
+print_table_end
+
+print_table_start 'More'
+for item in ${more[*]}
 do process_item "$item" "${emails[$item]}"
 done
 print_table_end
