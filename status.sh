@@ -102,6 +102,8 @@ user_groups=(
     #
     #  Include here your Wikimedia webpage(s).
     #
+    'cascadia.wiki'
+    'www.cascadia.wiki'
     'wikimedia.gr'
     'blog.wikimedia.gr'
     'www.wikimedia.gr'
