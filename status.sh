@@ -105,6 +105,8 @@ user_groups=(
     'wikimedia.gr'
     'blog.wikimedia.gr'
     'www.wikimedia.gr'
+    'wikimedia.tn'
+    'www.wikimedia.tn'
 )
 contests=(
     #
