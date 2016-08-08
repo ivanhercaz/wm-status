@@ -109,6 +109,8 @@ user_groups=(
     'www.wikimedia.gr'
     'wikimedia.tn'
     'www.wikimedia.tn'
+    'wikimedianobrasil.org'
+    'www.wikimedianobrasil.org'
 )
 contests=(
     #
