@@ -129,6 +129,8 @@ more=(
     #
     'wikiconference.org'
     'www.wikiconference.org'
+    'wikipedia.fr'
+    'www.wikipedia.fr'
 )
 
 
