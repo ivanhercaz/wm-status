@@ -58,8 +58,6 @@ chapters=(
     'www.wikimedia.hu'
     'wikimedia.in'
     'www.wikimedia.in'
-    'wikimedia.it'
-    'www.wikimedia.it'
     'wikimedia.mx'
     'www.wikimedia.mx'
     'wikimedia.nl'
