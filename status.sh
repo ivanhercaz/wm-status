@@ -188,12 +188,12 @@ function process_item {
     item=$1
     email_address=$2
     echo "<tr id=\"${item}\">"
-    echo "<td class=\"item\"><a href=\"http://${item}/\" target=\"_blank\">${item}</a></td>"
-    print_status "http://${item}/" || \
+    echo "<td class=\"item\"><a href=\"http://${item}\" target=\"_blank\">${item}</a></td>"
+    print_status "http://${item}" || \
         if [[ "n$email_address" != "n" ]]; then
             echo -e "Subject: WARNING: $item is not reachable\r\n\r\n" \
                     "Hi,\r\n\r\n" \
-                    "We've detected that http://${item}/ could be down right now.\r\n" \
+                    "We've detected that http://${item} could be down right now.\r\n" \
                     "Please, check out.\r\n\r\n" \
                     "Regards,\r\n" \
                     "your friendly Wikimedia status checker\r\n\r\n" \
@@ -203,7 +203,7 @@ function process_item {
                     "not hosted by the Wikimedia Foundation, Inc.\r\n" | \
                     /usr/sbin/exim -odf -i "${email_address}"
         fi
-    print_status "https://${item}/"
+    print_status "https://${item}"
     echo "</tr>"
 }
 
