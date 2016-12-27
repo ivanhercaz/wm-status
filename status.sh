@@ -30,6 +30,8 @@ declare -A emails=(
     ['wikimedia.es']='platon''ides@gma''il.com'
     ['blog.wikimedia.es']='platon''ides@gma''il.com'
     ['www.wikimedia.es']='platon''ides@gma''il.com'
+    ['mwstake.org']='dav''idab''ian@wikim''edia.es'
+    ['www.mwstake.org']='dav''idab''ian@wikim''edia.es'
 )
 chapters=(
     #
@@ -103,6 +105,8 @@ user_groups=(
     #
     'cascadia.wiki'
     'www.cascadia.wiki'
+    'mwstake.org'
+    'www.mwstake.org'
     'wikimedia.gr'
     'blog.wikimedia.gr'
     'www.wikimedia.gr'
