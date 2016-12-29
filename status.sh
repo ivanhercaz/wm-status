@@ -25,6 +25,8 @@ declare -A emails=(
     #  warning concerning your webpage.
     #  Add '' strings to prevent spam: 'use''r@gm''ail.com'
     #
+    ['wikiba.se']='dav''idab''ian@wikim''edia.es'
+    ['www.wikiba.se']='dav''idab''ian@wikim''edia.es'
     ['wikilov.es']='platon''ides@gma''il.com'
     ['www.wikilov.es']='platon''ides@gma''il.com'
     ['wikimedia.es']='platon''ides@gma''il.com'
@@ -130,6 +132,8 @@ more=(
     #
     #  Include here your Wikimedia webpage(s).
     #
+    'wikiba.se'
+    'www.wikiba.se'
     'wikiconference.org'
     'www.wikiconference.org'
     'wikipedia.fr'
