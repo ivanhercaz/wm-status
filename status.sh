@@ -121,6 +121,8 @@ contests=(
     #
     #  Include here your Wikimedia webpage(s).
     #
+    'wiki-loves-scientists.org.uk'
+    'www.wiki-loves-scientists.org.uk'
     'wikilovesearth.org'
     'www.wikilovesearth.org'
     'wikilovesmonuments.org'
