@@ -134,6 +134,8 @@ more=(
     #
     #  Include here your Wikimedia webpage(s).
     #
+    'semantic-mediawiki.org'
+    'www.semantic-mediawiki.org'
     'wikiba.se'
     'www.wikiba.se'
     'wikiconference.org'
