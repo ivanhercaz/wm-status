@@ -92,7 +92,6 @@ chapters=(
     'wikimediachile.cl'
     'www.wikimediachile.cl'
     'wikimediadc.org'
-    'www.wikimediadc.org'
 )
 thematic_orgs=(
     #
