@@ -1,47 +1,51 @@
 body{
-    color:#111;
-    padding:2em;
+    color:#ddd;
+    padding:2em 2em 3em;
     font-family:sans;
     line-height:1.5;
+    background:#000;
 }
 h2{
     margin-bottom:.5em;
-    margin-top:2em;
+    margin-top:3em;
 }
-table,td,th{
+table{
+    max-width:1200px;
+}
+td,th{
     padding:1em;
 }
 a{
     text-decoration:none;
 }
 a:link{
-    color:#007;
+    color:#88e;
 }
 a:visited{
-    color:#639;
+    color:#c9f;
 }
 a:hover, a:active{
-    color:#66b;
+    color:#ddf;
 }
 .column_http,.column_https{
     width:50%;
 }
 .status{
-    font-size:75%;
+    font-size:71%;
 }
 .status_scrolling{
     overflow:auto;
     overflow-y:scroll;
     overflow-x:auto;
-    height:48px;
+    height:50px;
     white-space:normal;
     word-break:break-all;
 }
 .status_ok{
-    background:#CCFFCC;
+    background:#141;
 }
 .status_error{
-    background:#FFBBBB;
+    background:#411;
 }
 .related_links{
     position:absolute;
