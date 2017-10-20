@@ -47,6 +47,8 @@ chapters=(
     'www.wikimedia.ca'
     'wikimedia.ch'
     'www.wikimedia.ch'
+    'wikimedia.cl'
+    'www.wikimedia.cl'
     'wikimedia.cz'
     'www.wikimedia.cz'
     'wikimedia.de'
