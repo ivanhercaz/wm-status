@@ -143,6 +143,8 @@ more=(
     'www.wikiconference.org'
     'wikipedia.fr'
     'www.wikipedia.fr'
+    'mediawikiwidgets.org'
+    'www.mediawikiwidgets.org'
 )
 
 
