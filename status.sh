@@ -145,6 +145,8 @@ more=(
     'www.wikipedia.fr'
     'mediawikiwidgets.org'
     'www.mediawikiwidgets.org'
+    'wikihoster.net'
+    'www.wikihoster.net'
 )
 
 
