@@ -147,6 +147,8 @@ more=(
     'www.mediawikiwidgets.org'
     'wikihoster.net'
     'www.wikihoster.net'
+    'wikistudies.org'
+    'www.wikistudies.org'
 )
 
 
