@@ -117,6 +117,10 @@ user_groups=(
     'www.wikimedia.tn'
     'wikimedianobrasil.org'
     'www.wikimedianobrasil.org'
+    'wikimediairan.ir'
+    'www.wikimediairan.ir'
+    'wikimedia.ci'
+    'www.wikimedia.ci'
 )
 contests=(
     #
