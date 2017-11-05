@@ -117,6 +117,10 @@ user_groups=(
     'www.wikimedia.tn'
     'wikimedianobrasil.org'
     'www.wikimedianobrasil.org'
+    'wikimediairan.ir'
+    'www.wikimediairan.ir'
+    'wikimedia.ci'
+    'www.wikimedia.ci'
 )
 contests=(
     #
@@ -147,6 +151,8 @@ more=(
     'www.mediawikiwidgets.org'
     'wikihoster.net'
     'www.wikihoster.net'
+    'wikistudies.org'
+    'www.wikistudies.org'
 )
 
 
